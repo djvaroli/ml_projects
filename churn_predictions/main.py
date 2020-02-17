@@ -5,7 +5,7 @@ import os
 import sklearn as sk
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder, StandardScaler
 from sklearn.model_selection import train_test_split
-from sklearn.compose import  ColumnTransformer
+from sklearn.compose import ColumnTransformer
 from sklearn.metrics import confusion_matrix
 import keras
 from keras.models import Sequential
@@ -79,3 +79,4 @@ print("Accuracy: {}, Error: {}, Precision: {}, Recall: {}".format(accuracy,
                                                                   error,
                                                                   precision, 
                                                                   recall))
+
