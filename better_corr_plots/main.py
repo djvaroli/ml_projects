@@ -1,3 +1,7 @@
+#### Inspired by this article
+#### https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec
+#### written by Drazen Zaric
+
 # Step 1 - Make a scatter plot with square markers, set column names as labels
 import matplotlib.pyplot as plt
 import pandas as pd

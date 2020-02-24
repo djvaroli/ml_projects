@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e83fded-0995-411c-93d0-14b36f1acc66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learning_and_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning_and_projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/churn_predictions/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/churn_predictions/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/better_corr_plots/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/better_corr_plots/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaggle/house_price_prediction/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kaggle/house_price_prediction/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaggle/house_price_prediction/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/kaggle/house_price_prediction/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaggle/house_price_prediction/submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/kaggle/house_price_prediction/submission.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +109,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581740880683</updated>
-      <workItem from="1581740885360" duration="13351000" />
+      <workItem from="1581740885360" duration="14329000" />
+      <workItem from="1582501876993" duration="737000" />
     </task>
     <servers />
   </component>
@@ -120,7 +122,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
